@@ -6,7 +6,7 @@ The program also provides **budget tracking and graphical reports**.
 ---
 
 ## 📌 Features
-- ** ✅ Add Expenses** – Log amount, category, and description.  
+- ✅ Add Expenses** – Log amount, category, and description.  
 - ** ✅ View Expense History** – Displays all recorded expenses.  
 - ** ✅ Filter Expenses by Category/Date** – View specific expenses.  
 - ** ✅ Set Monthly Budget Limit** – Alerts if spending exceeds the budget.  
