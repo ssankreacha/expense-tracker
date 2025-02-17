@@ -6,12 +6,12 @@ The program also provides **budget tracking and graphical reports**.
 ---
 
 ## 📌 Features
-✅ **Add Expenses** – Log amount, category, and description.  
-✅ **View Expense History** – Displays all recorded expenses.  
-✅ **Filter Expenses by Category/Date** – View specific expenses.  
-✅ **Set Monthly Budget Limit** – Alerts if spending exceeds the budget.  
-✅ **Graphical Spending Report (Pie Chart)** – Uses Matplotlib for visualization.  
-✅ **Export Data to CSV** – Saves all expenses for external use.  
+- ** ✅ Add Expenses** – Log amount, category, and description.  
+- ** ✅ View Expense History** – Displays all recorded expenses.  
+- ** ✅ Filter Expenses by Category/Date** – View specific expenses.  
+- ** ✅ Set Monthly Budget Limit** – Alerts if spending exceeds the budget.  
+- ** ✅ Graphical Spending Report (Pie Chart)** – Uses Matplotlib for visualization.
+- ** ✅ Export Data to CSV** – Saves all expenses for external use.  
 
 ---
 
@@ -44,7 +44,7 @@ The program also provides **budget tracking and graphical reports**.
 
 ## 📌 Future Enhancements
 
-✅ **Add GUI Interface (Tkinter)**
-✅ **Track Income vs. Expenses**
-✅ **Multi-Currency Support**
-✅ **Email Expense Reports to Users**
+- **✅ Add GUI Interface (Tkinter)**
+- **✅ Track Income vs. Expenses**
+- **✅ Multi-Currency Support**
+- **✅ Email Expense Reports to Users**
